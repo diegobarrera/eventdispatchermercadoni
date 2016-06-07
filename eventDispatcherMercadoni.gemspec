@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["diegobarrera"]
   spec.email         = ["dieg_goo@hotmail.com"]
 
-  spec.summary       = %q{TODO: Connection with the Mercdoni's event dispatcher.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "Connection with the Mercdoni's event dispatcher."
+  spec.description   = "Connection with the Mercdoni's event dispatcher."
+  spec.homepage      = ""
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
